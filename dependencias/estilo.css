@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(21, 170, 245);
+}
+
+.estiloMapa path {
+    fill: rgb(3, 87, 31);
+    stroke: rgb(67, 177, 116);
+    stroke-width: 4px;
+}
+
+.estiloMapa path:hover {
+    fill: rgb(218, 201, 107);
+}
+
+/*clase anteriores para hacer imagen SVG*/
